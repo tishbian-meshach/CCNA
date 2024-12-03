@@ -1,0 +1,19 @@
+Switch>enable
+
+Switch# show running-config
+
+Switch# configure terminal
+Switch (config) #hostname S1
+
+S1 (config) #banner motd $Unauthorized access is strictly prohibited$
+
+S1 (config) #service password—encryption
+S1 (config) #enable password cisco
+S1 (config) #enable secret itsasecret
+S1 (config) # line console 0
+S1 (config—line) #password letmein
+S1 (config—line) # login
+S1 (config—line) #exit
+
+Sl# copy running—config startup—config
+S1# show running-config
