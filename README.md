@@ -1,4 +1,4 @@
-2.9.1 Packet Tracer - Basic Switch and End Device Configuration
+2.9.1 Packet Tracer - Basic Switch and End Device Configuration (https://itexamanswers.net/2-9-1-packet-tracer-basic-switch-and-end-device-configuration-instructions-answer.html)
 
 10.1.4 Packet Tracer - Configure Initial Router Settings
 
